@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "Roboto-Regular";
+    src: local("Roboto-Regular"),
+    url('../public/Roboto/Roboto-Regular.ttf') format('truetype')
+}
+@font-face {
+    font-family: "Roboto-Bold";
+    src: local("Roboto-Bold"),
+    url('../public/Roboto/Roboto-Bold.ttf') format('truetype')
+}
